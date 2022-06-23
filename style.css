@@ -1,0 +1,22 @@
+html,body{
+    background-color: #fff;
+}
+
+#doors{
+    display: flex;
+}
+
+.door{
+    width: 100px;
+    height: 100px;
+    background-color: #aaa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+button{
+    float: left;
+    margin: 10px;
+}
